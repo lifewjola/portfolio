@@ -1,12 +1,13 @@
-# My Website
+# My Portfolio
 
 Welcome to my website! This README file provides an overview of the site structure.
 
-## Table of Contents
-- [Home](#home)
-- [Certifications](#certifications)
-- [Blog](#blog)
-- [Projects](#projects)
+<div class="menu">
+  <a href="#home">Home</a>
+  <a href="#certifications">Certifications</a>
+  <a href="#blog">Blog</a>
+  <a href="#projects">Projects</a>
+</div>
 
 ## Home<a name="home"></a>
 
@@ -30,4 +31,12 @@ Feel free to explore different sections of my website using the menu bar above.
 
 If you have any questions or want to get in touch with me, please feel free to reach out via email at example@example.com.
 
+<style>
+.menu {
+  display: flex;
+}
 
+.menu a {
+  margin-right: 10px;
+}
+</style>
