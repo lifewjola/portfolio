@@ -11,7 +11,7 @@
 ## Home<a name="home"></a>
 
 <div align="center">
-  <img src="path_to_your_photo" alt="My Photo" width="200">
+  <img src="images/programming.gif" alt="Animated Data scientist" width="200">
 </div>
 
 About Me:
