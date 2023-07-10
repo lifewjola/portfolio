@@ -3,7 +3,6 @@
   <div class="menu">
     <a href="#home">Home</a>
     <a href="#certifications">Certifications</a>
-    <a href="#blog">Blog</a>
     <a href="#projects">Projects</a>
   </div>
 </div>
@@ -48,53 +47,6 @@ So I invite you to explore my [projects](#projects) to find out how!
   <span class="skill-bubble">Reinforcement Learning</span>
 </div>
 
-## Certifications<a name="certifications"></a>
-
-<div class="certification-container">
-  <div class="certification-column">
-    <div class="certification-item">
-      <img src="images/datacamp.png" alt="Introduction to Python">
-      <div class="certification-details">
-        <strong>Introduction to Python</strong>
-        <p>Python programming language</p>
-      </div>
-    </div>
-    
-    <div class="certification-item">
-      <img src="images/cert-CT-ONE9UVL6.png" alt="Certification 2">
-      <div class="certification-details">
-        <strong>Python for Beginners</strong>
-        <p>Basic Python syntaxes | logic | libraires</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="certification-column">
-    <div class="certification-item">
-      <a href="[credential1_link](https://www.sololearn.com/Certificate/CT-ONE9UVL6/png)" target="_blank">
-        <img src="images/cert-CT-ZIMBAUQB.png" alt="Python for Data Science">
-        <div class="certification-details">
-          <strong>Python for Data Science</strong>
-          <p>Numpy | Pandas | Matplotlib</p>
-        </div>
-      </a>
-    </div>
-
-    <div class="certification-item">
-    <a href="[credential1_link](https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning)" target="_blank">
-      <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 4">
-      <div class="certification-details">
-        <strong>Intro to Machine Learning</strong>
-        <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
-      </div>
-    </a>
-  </div>
-</div>
-
-## Blog<a name="blog"></a>
-
-Here, I share my thoughts, ideas, and experiences through blog posts.
-
 ## Projects<a name="projects"></a>
 
 <div align="center">
@@ -124,6 +76,66 @@ This section showcases my natural language processing projects.
 
 Feel free to explore different sections of my portfolio using the menu above.
 
+## Certifications<a name="certifications"></a>
+
+<div class="certification-container">
+  <div class="certification-item">
+    <div class="certificate-header">
+      <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1">
+      <div class="certification-details">
+        <strong>Intro to Machine learning</strong>
+        <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+      </div>
+      <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
+    </div>
+  </div>
+
+  <div class="certification-item">
+    <div class="certificate-header">
+      <img src="images/Data Analysis Certificate.png" alt="Certification 2">
+      <div class="certification-details">
+        <strong>Data Analysis with Python</strong>
+        <p>Data cleaning | Manipulation | Visualization</p>
+      </div>
+      <a href="https://freecodecamp.org/certification/lifewjola/data-analysis-with-python-v7" target="_blank" class="show-button">View Credential</a>
+    </div>
+  </div>
+
+  <div class="certification-item">
+    <div class="certificate-header">
+      <img src="images/cert-CT-ONE9UVL6.png" alt="Certification 3">
+      <div class="certification-details">
+        <strong>Python for Beginners</strong>
+        <p>Skills gained:</p>
+      </div>
+      <a href="https://www.sololearn.com/Certificate/CT-ONE9UVL6/png" target="_blank" class="show-button">View Credential</a>
+    </div>
+  </div>
+
+  <div class="certification-item">
+    <div class="certificate-header">
+      <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1">
+      <div class="certification-details">
+        <strong>Introduction to Python</strong>
+        <p>Python programming language</p>
+      </div>
+      <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
+    </div>
+  </div>
+
+  <div class="certification-item">
+    <div class="certificate-header">
+      <img src="images/cert-CT-NJ1O1WAK.png" alt="Certification 5">
+      <div class="certification-details">
+        <strong>Data Science</strong>
+        <p>Skills gained:</p>
+      </div>
+      <a href="https://www.sololearn.com/certificates/CT-NJ1O1WAK" target="_blank" class="show-button">View Credential</a>
+    </div>
+  </div>
+</div>
+
+
 ## Contact
 
 If you have any questions or want to get in touch with me, please feel free to reach out via email at example@example.com.
@@ -151,25 +163,24 @@ If you have any questions or want to get in touch with me, please feel free to r
   margin-right: 10px;
   margin-bottom: 10px;
   white-space: nowrap;
-  width: 18%; 
+  width: 24%; 
 
 .full-width-image {
   width: 100%;
 }
-
-<style>
+  
 .certification-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.certification-column {
-  width: 48%;
+  justify-content: center;
 }
 
 .certification-item {
-  margin-bottom: 20px;
+  flex-basis: 30%;
+  margin: 10px;
+}
+
+.certificate-header {
   display: flex;
   align-items: center;
 }
@@ -182,6 +193,14 @@ If you have any questions or want to get in touch with me, please feel free to r
   margin-top: 10px;
   margin-bottom: 5px;
 }
-</style>
 
+.show-button {
+  display: inline-block;
+  background-color: #f2f2f2;
+  color: #333;
+  padding: 6px 12px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+  
 </style>
