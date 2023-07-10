@@ -1,4 +1,4 @@
-## D A T A   P R I N C E S S
+# ANJOLAOLUWA AJAYI
 <div align="center">
   <div class="menu">
     <a href="#home">Home</a>
@@ -8,26 +8,27 @@
   </div>
 </div>
 
-## WELCOME TO MY PORTFOLIO<a name="home"></a>
-
 <div align="center">
   <img src="images/programming.gif" alt="Animated Data scientist" class="full-width-image">
 </div>
 
+# WELCOME TO MY PORTFOLIO<a name="home"></a>
 ## About Me:
-###Hello, I'm Anjolaoluwa Ajayi.
+Hello, I'm Anjolaoluwa Ajayi.
 
-As a neat freak, I often find myself cleaning a lot of things. Be it spilled juice, a dirty floor, a dusty window, or dare I say it, DATA. But of all the things I've cleaned my whole life, data is probably my favorite. Because after cleaning a floor or something, all I can do is stare at it and wait till it gets dirty again. But with data, I can do much more than cleaning it.
+As a neat freak, I often find myself cleaning a lot of things. Be it spilled juice, a dirty floor, a dusty window, or dare I say it, DATA. 
+
+But of all the things I've cleaned my whole life, data is probably my favorite. Because after cleaning a floor or something, all I can do is stare at it and wait till it gets dirty again. But with data, I can do much more than cleaning it.
 
 I can transform data into meaningful stories and visuals that drive impactful decisions, I can use data to build robust models that solve complex problems, and you may like this one, I can also leverage data to improve your business's success.
 
 So I invite you to explore my [projects](#projects) to find out how!
 
-Education:
+## Education:
 - Bachelor of Science in Computer Science, Babcock University, CGPA: 4.86
 - Machine Learning Specialization, Stanford University (online)
 
-Skills:
+## Skills:
 <div class="skill-bubbles">
   <span class="skill-bubble">Data Analysis</span>
   <span class="skill-bubble">Data Visualization</span>
@@ -49,7 +50,46 @@ Skills:
 
 ## Certifications<a name="certifications"></a>
 
-In this section, you can find details about my certifications and qualifications.
+<div class="certification-container">
+  <div class="certification-column">
+    <div class="certification-item">
+      <img src="images/datacamp.png" alt="Introduction to Python">
+      <div class="certification-details">
+        <strong>Introduction to Python</strong>
+        <p>Python programming language</p>
+      </div>
+    </div>
+    
+    <div class="certification-item">
+      <img src="images/cert-CT-ONE9UVL6.png" alt="Certification 2">
+      <div class="certification-details">
+        <strong>Python for Beginners</strong>
+        <p>Basic Python syntaxes | logic | libraires</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="certification-column">
+    <div class="certification-item">
+      <a href="[credential1_link](https://www.sololearn.com/Certificate/CT-ONE9UVL6/png)" target="_blank">
+        <img src="images/cert-CT-ZIMBAUQB.png" alt="Python for Data Science">
+        <div class="certification-details">
+          <strong>Python for Data Science</strong>
+          <p>Numpy | Pandas | Matplotlib</p>
+        </div>
+      </a>
+    </div>
+
+    <div class="certification-item">
+    <a href="[credential1_link](https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning)" target="_blank">
+      <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 4">
+      <div class="certification-details">
+        <strong>Intro to Machine Learning</strong>
+        <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+      </div>
+    </a>
+  </div>
+</div>
 
 ## Blog<a name="blog"></a>
 
@@ -99,9 +139,7 @@ If you have any questions or want to get in touch with me, please feel free to r
 }
 
 .skill-bubbles {
-  display: flex;
-  justify-content: center;
-  margin-top: 10px;
+  text-align: center;
 }
 
 .skill-bubble {
@@ -111,8 +149,39 @@ If you have any questions or want to get in touch with me, please feel free to r
   padding: 6px 12px;
   border-radius: 20px;
   margin-right: 10px;
-}
+  margin-bottom: 10px;
+  white-space: nowrap;
+  width: 18%; 
+
 .full-width-image {
   width: 100%;
 }
+
+<style>
+.certification-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.certification-column {
+  width: 48%;
+}
+
+.certification-item {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.certification-details {
+  margin-left: 10px;
+}
+
+.certification-details p {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+</style>
+
 </style>
