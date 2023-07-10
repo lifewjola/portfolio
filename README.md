@@ -1,4 +1,4 @@
-# Welcome to my Portfolio
+## D A T A   P R I N C E S S
 <div align="center">
   <div class="menu">
     <a href="#home">Home</a>
@@ -8,25 +8,43 @@
   </div>
 </div>
 
-## Home<a name="home"></a>
+## WELCOME TO MY PORTFOLIO<a name="home"></a>
 
 <div align="center">
-  <img src="images/programming.gif" alt="Animated Data scientist" width="200">
+  <img src="images/programming.gif" alt="Animated Data scientist" class="full-width-image">
 </div>
 
-About Me:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat turpis nec finibus dignissim. Integer sed augue quis tellus aliquam pulvinar.
+## About Me:
+###Hello, I'm Anjolaoluwa Ajayi.
+
+As a neat freak, I often find myself cleaning a lot of things. Be it spilled juice, a dirty floor, a dusty window, or dare I say it, DATA. But of all the things I've cleaned my whole life, data is probably my favorite. Because after cleaning a floor or something, all I can do is stare at it and wait till it gets dirty again. But with data, I can do much more than cleaning it.
+
+I can transform data into meaningful stories and visuals that drive impactful decisions, I can use data to build robust models that solve complex problems, and you may like this one, I can also leverage data to improve your business's success.
+
+So I invite you to explore my [projects](#projects) to find out how!
 
 Education:
-- Bachelor of Science in Computer Science, XYZ University, 20XX-20XX
-- Master of Science in Data Science, ABC University, 20XX-20XX
+- Bachelor of Science in Computer Science, Babcock University, CGPA: 4.86
+- Machine Learning Specialization, Stanford University (online)
 
 Skills:
 <div class="skill-bubbles">
   <span class="skill-bubble">Data Analysis</span>
   <span class="skill-bubble">Data Visualization</span>
   <span class="skill-bubble">Machine Learning</span>
-  <span class="skill-bubble">Natural Language Processing</span>
+  <span class="skill-bubble">Data Cleaning</span>
+  <span class="skill-bubble">Data manipulation</span>
+  <span class="skill-bubble">Supervised learning</span>
+  <span class="skill-bubble">Web scraping</span>
+  <span class="skill-bubble">Unsupervised learning</span>
+  <span class="skill-bubble">Exploratory Data Analysis</span>
+  <span class="skill-bubble">Data Storytelling</span>
+  <span class="skill-bubble">Sentiment Analysis</span>
+  <span class="skill-bubble">Classification</span>
+  <span class="skill-bubble">Regression</span>
+  <span class="skill-bubble">Predictive Analysis</span>
+  <span class="skill-bubble">Error handling</span>
+  <span class="skill-bubble">Reinforcement Learning</span>
 </div>
 
 ## Certifications<a name="certifications"></a>
@@ -93,5 +111,8 @@ If you have any questions or want to get in touch with me, please feel free to r
   padding: 6px 12px;
   border-radius: 20px;
   margin-right: 10px;
+}
+.full-width-image {
+  width: 100%;
 }
 </style>
