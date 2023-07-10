@@ -81,7 +81,7 @@ Feel free to explore different sections of my portfolio using the menu above.
 <div class="certification-container">
   <div class="certification-item">
     <div class="certificate-header">
-      <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="200">
+      <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
       <div class="certification-details">
         <strong>Intro to Machine learning</strong>
         <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
@@ -92,7 +92,7 @@ Feel free to explore different sections of my portfolio using the menu above.
 
   <div class="certification-item">
     <div class="certificate-header">
-      <img src="images/Data Analysis Certificate.png" alt="Certification 2" width="200">
+      <img src="images/Data Analysis Certificate.png" alt="Certification 2" width="250">
       <div class="certification-details">
         <strong>Data Analysis with Python</strong>
         <p>Data cleaning | Manipulation | Visualization</p>
@@ -103,7 +103,7 @@ Feel free to explore different sections of my portfolio using the menu above.
 
   <div class="certification-item">
     <div class="certificate-header">
-      <img src="images/cert-CT-ONE9UVL6.png" alt="Certification 3" width="200">
+      <img src="images/cert-CT-ONE9UVL6.png" alt="Certification 3" width="250">
       <div class="certification-details">
         <strong>Python for Beginners</strong>
         <p>Skills gained:</p>
@@ -114,7 +114,7 @@ Feel free to explore different sections of my portfolio using the menu above.
 
   <div class="certification-item">
     <div class="certificate-header">
-      <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="200">
+      <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
       <div class="certification-details">
         <strong>Introduction to Python</strong>
         <p>Python programming language</p>
@@ -125,7 +125,7 @@ Feel free to explore different sections of my portfolio using the menu above.
 
   <div class="certification-item">
     <div class="certificate-header">
-      <img src="images/cert-CT-NJ1O1WAK.png" alt="Certification 5" width="200">
+      <img src="images/cert-CT-NJ1O1WAK.png" alt="Certification 5" width="250">
       <div class="certification-details">
         <strong>Data Science</strong>
         <p>Skills gained:</p>
@@ -176,31 +176,40 @@ If you have any questions or want to get in touch with me, please feel free to r
 }
 
 .certification-item {
-  flex-basis: 30%;
-  margin: 10px;
+  width: 33.33%;
+  padding: 10px;
+  box-sizing: border-box;
 }
 
 .certificate-header {
-  display: flex;
-  align-items: center;
+  text-align: center;
+}
+
+.certification-image {
+  max-width: 100%;
+  height: auto;
 }
 
 .certification-details {
-  margin-left: 10px;
+  margin-top: 10px;
+  text-align: center;
 }
 
 .certification-details p {
-  margin-top: 10px;
+  margin-top: 5px;
   margin-bottom: 5px;
 }
 
-.show-button {
+.credential-link {
+  margin-top: 10px;
+}
+
+.credential-link a {
   display: inline-block;
   background-color: #f2f2f2;
   color: #333;
   padding: 6px 12px;
   border-radius: 4px;
   text-decoration: none;
-}
-  
+}  
 </style>
