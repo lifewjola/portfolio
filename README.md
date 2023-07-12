@@ -163,7 +163,7 @@ If you have any questions or want to get in touch with me, please feel free to r
   margin-right: 10px;
   margin-bottom: 10px;
   white-space: nowrap;
-  width: 27%; 
+  width: 30%; 
 
 .full-width-image {
   width: 100%;
