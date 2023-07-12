@@ -54,7 +54,7 @@ So I invite you to explore my [projects](#projects) to find out how!
 
 ## Projects<a name="project"></a>
 
-<div class="menu-container>
+<div class="menu-container" align="center">
   <div class="menu-item">
     <a href="#recent" class="menu-button tag-green-pale">Recent</a>
   </div>
