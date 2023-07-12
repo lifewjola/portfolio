@@ -262,18 +262,19 @@ If you have any questions or want to get in touch with me, please feel free to r
 }
 
 .certification-details p {
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .credential-link {
   margin-top: 10px;
+  text-align: center;
 }
 
 .credential-link a {
   display: inline-block;
   background-color: #f2f2f2;
-  color: #333;
+  color: #00CC66;
   padding: 6px 12px;
   border-radius: 4px;
   text-decoration: none;
