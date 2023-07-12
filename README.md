@@ -53,34 +53,41 @@ So I invite you to explore my [projects](#projects) to find out how!
 
 ## Projects<a name="projects"></a>
 
-<div class="menu-container">
+<div class="menu-container
   <div class="menu-item">
-    <a href="#data-analysis" class="menu-button tag-red">Data Analysis</a>
+    <a href="#recent" class="menu-button tag-green-pale">Recent</a>
   </div>
   <div class="menu-item">
-    <a href="#data-viz" class="menu-button tag-blue">Data Viz</a>
+    <a href="#data-analysis" class="menu-button tag-green-dark">Data Analysis</a>
   </div>
   <div class="menu-item">
-    <a href="#ml" class="menu-button tag-green">Machine Learning</a>
+    <a href="#data-viz" class="menu-button tag-green-medium">Data Viz</a>
   </div>
   <div class="menu-item">
-    <a href="#nlp" class="menu-button tag-orange">NLP</a>
+    <a href="#ml" class="menu-button tag-green-light">Machine Learning</a>
+  </div>
+  <div class="menu-item">
+    <a href="#nlp" class="menu-button tag-green-pale">NLP</a>
   </div>
 </div>
 
-### Data Analysis<a name="data-analysis"></a>
+## Recent Projects<a name="recent"></a>
 
 This section showcases my data analysis projects.
 
-### Data Viz<a name="data-viz"></a>
+## Data Analysis<a name="data-analysis"></a>
+
+This section showcases my data analysis projects.
+
+## Data Viz<a name="data-viz"></a>
 
 This section showcases my data visualization projects.
 
-### Machine Learning<a name="machine-learning"></a>
+## Machine Learning<a name="ml"></a>
 
 This section showcases my machine learning projects.
 
-### Natural Language Processing<a name="nlp"></a>
+## Natural Language Processing<a name="nlp"></a>
 
 This section showcases my natural language processing projects.
 
@@ -182,20 +189,20 @@ If you have any questions or want to get in touch with me, please feel free to r
   transition: background-color 0.3s ease;
 }
 
-.tag-red {
-  background-color: #FF5353;
+.tag-green-dark {
+  background-color: #006633;
 }
 
-.tag-blue {
-  background-color: #536BFF;
+.tag-green-medium {
+  background-color: #00CC66;
 }
 
-.tag-green {
-  background-color: #3EFF7A;
+.tag-green-light {
+  background-color: #33FF99;
 }
 
-.tag-orange {
-  background-color: #FF8535;
+.tag-green-pale {
+  background-color: #B3FFCC;
 }
 
 .menu-button:hover {
