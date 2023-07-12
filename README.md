@@ -56,7 +56,7 @@ So I invite you to explore my [projects](#projects) to find out how!
 
 <div class="menu-container" align="center">
   <div class="menu-item">
-    <a href="#recent" class="menu-button tag-green-pale">Recent</a>
+    <a href="#recent" class="menu-button tag-green-medium">Recent</a>
   </div>
   <div class="menu-item">
     <a href="#data-analysis" class="menu-button tag-green-dark">Data Analysis</a>
@@ -209,7 +209,7 @@ If you have any questions or want to get in touch with me, please feel free to r
 }
 
 .tag-green-pale {
-  background-color: #B3FFCC;
+  background-color: #24A445;
 }
 
 .menu-button:hover {
