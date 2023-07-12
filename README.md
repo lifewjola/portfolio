@@ -78,65 +78,47 @@ Feel free to explore different sections of my portfolio using the menu above.
 
 This section showcases my recent projects.
 <p align="center">
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
-  
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
 ## Churn Prediction for telecom company
 Randomforestclassifier | Pandas | Plotly.express | Logic
-
-### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
-  
+#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
 ## Churn Prediction for telecom company
 Randomforestclassifier | Pandas | Plotly.express | Logic
-
-### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
-  
+#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
 ## Churn Prediction for telecom company
 Randomforestclassifier | Pandas | Plotly.express | Logic
-
-### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
+#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
 </p>
 <p align="center">
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
-  
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
 ## Churn Prediction for telecom company
 Randomforestclassifier | Pandas | Plotly.express | Logic
-
-### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
-  
+#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
 ## Churn Prediction for telecom company
 Randomforestclassifier | Pandas | Plotly.express | Logic
-
-### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
-  
+#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
 ## Churn Prediction for telecom company
 Randomforestclassifier | Pandas | Plotly.express | Logic
-
-### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
+#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
 </p>
 
 <p align="center">
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
-  
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
 ## Churn Prediction for telecom company
 Randomforestclassifier | Pandas | Plotly.express | Logic
-
-### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
-  
+#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
 ## Churn Prediction for telecom company
 Randomforestclassifier | Pandas | Plotly.express | Logic
-
-### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
-  
+#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
 ## Churn Prediction for telecom company
 Randomforestclassifier | Pandas | Plotly.express | Logic
-
-### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
+#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
 </p>
 
 <p align="center">
