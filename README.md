@@ -1,4 +1,3 @@
-# ANJOLAOLUWA AJAYI
 <div align="center">
   <div class="menu">
     <a href="#home">Home</a>
@@ -8,9 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="images/programming.gif" alt="Animated Data scientist" class="full-width-image">
-</div>
-
+  
 # WELCOME TO MY PORTFOLIO<a name="home"></a>
 ## About Me:
 Hello, I'm Anjolaoluwa Ajayi.
@@ -27,6 +24,7 @@ So I invite you to explore my [projects](#projects) to find out how!
 - Bachelor of Science in Computer Science, Babcock University, CGPA: 4.86
 - Machine Learning Specialization, Stanford University (online)
 
+</div>
 ## Skills:
 <div class="skill-bubbles">
   <span class="skill-bubble">Data Analysis</span>
@@ -46,6 +44,7 @@ So I invite you to explore my [projects](#projects) to find out how!
   <span class="skill-bubble">Error handling</span>
   <span class="skill-bubble">Reinforcement Learning</span>
 </div>
+
 
 ## Projects<a name="projects"></a>
 
