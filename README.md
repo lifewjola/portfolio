@@ -7,6 +7,8 @@
 </div>
 
 <div align="center">
+<img src= 'images/portfolio banner.gif'>
+</div>
   
 # WELCOME TO MY PORTFOLIO<a name="home"></a>
 ## About Me:
@@ -24,7 +26,6 @@ So I invite you to explore my [projects](#projects) to find out how!
 - Bachelor of Science in Computer Science, Babcock University, CGPA: 4.86
 - Machine Learning Specialization, Stanford University (online)
 
-</div>
 ## Skills:
 <div class="skill-bubbles">
   <span class="skill-bubble">Data Analysis</span>
