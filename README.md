@@ -75,51 +75,7 @@ So I invite you to explore my [projects](#projects) to find out how!
 Feel free to explore different sections of my portfolio using the menu above.
 
 ## Recent Projects<a name="recent"></a>
-
 This section showcases my recent projects.
-<p align="center">
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-## Churn Prediction for telecom company
-Randomforestclassifier | Pandas | Plotly.express | Logic
-#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-## Churn Prediction for telecom company
-Randomforestclassifier | Pandas | Plotly.express | Logic
-#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-## Churn Prediction for telecom company
-Randomforestclassifier | Pandas | Plotly.express | Logic
-#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
-</p>
-<p align="center">
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-## Churn Prediction for telecom company
-Randomforestclassifier | Pandas | Plotly.express | Logic
-#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-## Churn Prediction for telecom company
-Randomforestclassifier | Pandas | Plotly.express | Logic
-#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-## Churn Prediction for telecom company
-Randomforestclassifier | Pandas | Plotly.express | Logic
-#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
-</p>
-
-<p align="center">
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-## Churn Prediction for telecom company
-Randomforestclassifier | Pandas | Plotly.express | Logic
-#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-## Churn Prediction for telecom company
-Randomforestclassifier | Pandas | Plotly.express | Logic
-#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-## Churn Prediction for telecom company
-Randomforestclassifier | Pandas | Plotly.express | Logic
-#### This model predicts the likelihood of customers of MTN, A telecommunication company to churn
-</p>
 
 <p align="center">
 <a href="https://twitter.com/lifewjola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifewjola" height="30" width="40" /></a>
@@ -132,17 +88,45 @@ Randomforestclassifier | Pandas | Plotly.express | Logic
 
 This section showcases my data analysis projects.
 
+<p align="center">
+<a href="https://twitter.com/lifewjola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifewjola" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anjolaoluwa-ajayi-a7998b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjolaoluwa-ajayi-a7998b229" height="30" width="40" /></a>
+<a href="https://kaggle.com/anjolaoluwaajayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anjolaoluwaajayi" height="30" width="40" /></a>
+<a href="https://medium.com/@dataprincess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dataprincess" height="30" width="40" /></a>
+</p>
+
 ## Data Viz<a name="data-viz"></a>
 
 This section showcases my data visualization projects.
+
+<p align="center">
+<a href="https://twitter.com/lifewjola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifewjola" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anjolaoluwa-ajayi-a7998b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjolaoluwa-ajayi-a7998b229" height="30" width="40" /></a>
+<a href="https://kaggle.com/anjolaoluwaajayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anjolaoluwaajayi" height="30" width="40" /></a>
+<a href="https://medium.com/@dataprincess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dataprincess" height="30" width="40" /></a>
+</p>
 
 ## Machine Learning<a name="ml"></a>
 
 This section showcases my machine learning projects.
 
+<p align="center">
+<a href="https://twitter.com/lifewjola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifewjola" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anjolaoluwa-ajayi-a7998b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjolaoluwa-ajayi-a7998b229" height="30" width="40" /></a>
+<a href="https://kaggle.com/anjolaoluwaajayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anjolaoluwaajayi" height="30" width="40" /></a>
+<a href="https://medium.com/@dataprincess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dataprincess" height="30" width="40" /></a>
+</p>
+
 ## Natural Language Processing<a name="nlp"></a>
 
 This section showcases my natural language processing projects.
+
+<p align="center">
+<a href="https://twitter.com/lifewjola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifewjola" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anjolaoluwa-ajayi-a7998b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjolaoluwa-ajayi-a7998b229" height="30" width="40" /></a>
+<a href="https://kaggle.com/anjolaoluwaajayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anjolaoluwaajayi" height="30" width="40" /></a>
+<a href="https://medium.com/@dataprincess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dataprincess" height="30" width="40" /></a>
+</p>
 
 ## Contact
 
