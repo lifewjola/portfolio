@@ -1,9 +1,13 @@
-<div align="center">
-  <div class="menu">
-    <a href="#home">Home</a>
-    <a href="#certifications">Certifications</a>
-    <a href="#projects">Projects</a>
+<div class="menu-container" align="center">
+  <div class="menu-item">
+    <a href="#home" class="menu-button">Home</a>
   </div>
+  <div class="menu-item">
+    <a href="#project" class="menu-button">Project</a>
+  </div>
+  <div class="menu-item">
+    <a href="#certifications" class="menu-button">Certifications</a>
+  </div>  
 </div>
 
 <div align="center">
@@ -49,12 +53,18 @@ So I invite you to explore my [projects](#projects) to find out how!
 
 ## Projects<a name="projects"></a>
 
-<div align="center">
-  <div class="menu">
-    <a href="#data-analysis">Data Analysis</a>
-    <a href="#data-viz">Data Viz</a>
-    <a href="#machine-learning">ML</a>
-    <a href="#nlp">NLP</a>
+<div class="menu-container">
+  <div class="menu-item">
+    <a href="#data-analysis" class="menu-button tag-red">Data Analysis</a>
+  </div>
+  <div class="menu-item">
+    <a href="#data-viz" class="menu-button tag-blue">Data Viz</a>
+  </div>
+  <div class="menu-item">
+    <a href="#ml" class="menu-button tag-green">Machine Learning</a>
+  </div>
+  <div class="menu-item">
+    <a href="#nlp" class="menu-button tag-orange">NLP</a>
   </div>
 </div>
 
@@ -141,15 +151,57 @@ Feel free to explore different sections of my portfolio using the menu above.
 If you have any questions or want to get in touch with me, please feel free to reach out via email at example@example.com.
 
 <style>
-.menu {
+.menu-container {
   display: flex;
   justify-content: center;
 }
 
-.menu a {
-  margin-right: 10px;
+.menu-item {
+  margin: 10px;
 }
 
+.menu-container {
+  display: flex;
+  justify-content: center;
+}
+
+.menu-item {
+  margin: 10px;
+}
+
+.menu-button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 20px;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 1px;
+  transition: background-color 0.3s ease;
+}
+
+.tag-red {
+  background-color: #FF5353;
+}
+
+.tag-blue {
+  background-color: #536BFF;
+}
+
+.tag-green {
+  background-color: #3EFF7A;
+}
+
+.tag-orange {
+  background-color: #FF8535;
+}
+
+.menu-button:hover {
+  opacity: 0.8;
+}
+  
 .skill-bubbles {
   text-align: center;
 }
@@ -176,7 +228,7 @@ If you have any questions or want to get in touch with me, please feel free to r
 }
 
 .certification-item {
-  width: 33.33%;
+  flex-basis: 33.33%;
   padding: 10px;
   box-sizing: border-box;
 }
@@ -211,5 +263,5 @@ If you have any questions or want to get in touch with me, please feel free to r
   padding: 6px 12px;
   border-radius: 4px;
   text-decoration: none;
-}  
+} 
 </style>
