@@ -97,59 +97,148 @@ This section showcases my natural language processing projects.
 ## Certifications<a name="certifications"></a>
 
 <div class="certification-container">
-  <div class="certification-item">
-    <div class="certificate-header">
-      <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
-      <div class="certification-details">
-        <strong>Intro to Machine learning</strong>
-        <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+  <div class="certification-row">
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
       </div>
-      <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
-    </div>
-  </div>
-
-  <div class="certification-item">
-    <div class="certificate-header">
-      <img src="images/Data Analysis Certificate.png" alt="Certification 2" width="250">
-      <div class="certification-details">
-        <strong>Data Analysis with Python</strong>
-        <p>Data cleaning | Manipulation | Visualization</p>
+    </div>   
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
       </div>
-      <a href="https://freecodecamp.org/certification/lifewjola/data-analysis-with-python-v7" target="_blank" class="show-button">View Credential</a>
     </div>
-  </div>
-
-  <div class="certification-item">
-    <div class="certificate-header">
-      <img src="images/cert-CT-ONE9UVL6.png" alt="Certification 3" width="250">
-      <div class="certification-details">
-        <strong>Python for Beginners</strong>
-        <p>Skills gained:</p>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
       </div>
-      <a href="https://www.sololearn.com/Certificate/CT-ONE9UVL6/png" target="_blank" class="show-button">View Credential</a>
     </div>
-  </div>
-
-  <div class="certification-item">
-    <div class="certificate-header">
-      <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
-      <div class="certification-details">
-        <strong>Introduction to Python</strong>
-        <p>Python programming language</p>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
       </div>
-      <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
     </div>
-  </div>
-
-  <div class="certification-item">
-    <div class="certificate-header">
-      <img src="images/cert-CT-NJ1O1WAK.png" alt="Certification 5" width="250">
-      <div class="certification-details">
-        <strong>Data Science</strong>
-        <p>Skills gained:</p>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
       </div>
-      <a href="https://www.sololearn.com/certificates/CT-NJ1O1WAK" target="_blank" class="show-button">View Credential</a>
     </div>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
+      </div>
+    </div>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
+      </div>
+    </div>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
+      </div>
+    </div>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
+      </div>
+    </div>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
+      </div>
+    </div>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
+      </div>
+    </div>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
+      </div>
+    </div>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
+      </div>
+    </div>
+    <div class="certification-item">
+      <div class="certificate-header">
+        <img src="images/Anjolaoluwa Ajayi - Intro to Machine Learning.png" alt="Certification 1" width="250">
+        <div class="certification-details">
+          <strong>Intro to Machine learning</strong>
+          <p>RandomForest | DecisionTree | Pandas | Modeling | Optimization</p>
+        </div>
+        <a href="https://www.kaggle.com/learn/certification/anjolaoluwaajayi/intro-to-machine-learning" target="_blank" class="show-button">View Credential</a>
+      </div>
+    </div>
+    
   </div>
 </div>
 
@@ -240,9 +329,15 @@ If you have any questions or want to get in touch with me, please feel free to r
   flex-wrap: wrap;
   justify-content: center;
 }
-
+  
+.certification-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+  
 .certification-item {
-  flex-basis: 33.33%;
+  flex-basis: 30.33%;
   padding: 10px;
   box-sizing: border-box;
 }
