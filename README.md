@@ -71,9 +71,11 @@ So I invite you to explore my [projects](#projects) to find out how!
   </div>
 </div>
 
+Feel free to explore different sections of my portfolio using the menu above.
+
 ## Recent Projects<a name="recent"></a>
 
-This section showcases my data analysis projects.
+This section showcases my recent projects.
 
 ## Data Analysis<a name="data-analysis"></a>
 
@@ -90,8 +92,6 @@ This section showcases my machine learning projects.
 ## Natural Language Processing<a name="nlp"></a>
 
 This section showcases my natural language processing projects.
-
-Feel free to explore different sections of my portfolio using the menu above.
 
 ## Certifications<a name="certifications"></a>
 
