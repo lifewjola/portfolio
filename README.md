@@ -78,20 +78,67 @@ Feel free to explore different sections of my portfolio using the menu above.
 
 This section showcases my recent projects.
 <p align="center">
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
+  
+## Churn Prediction for telecom company
+Randomforestclassifier | Pandas | Plotly.express | Logic
+
+### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
+  
+## Churn Prediction for telecom company
+Randomforestclassifier | Pandas | Plotly.express | Logic
+
+### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
+  
+## Churn Prediction for telecom company
+Randomforestclassifier | Pandas | Plotly.express | Logic
+
+### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
 </p>
 <p align="center">
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
+  
+## Churn Prediction for telecom company
+Randomforestclassifier | Pandas | Plotly.express | Logic
+
+### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
+  
+## Churn Prediction for telecom company
+Randomforestclassifier | Pandas | Plotly.express | Logic
+
+### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
+  
+## Churn Prediction for telecom company
+Randomforestclassifier | Pandas | Plotly.express | Logic
+
+### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
 </p>
+
 <p align="center">
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
-<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" /></a>
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
+  
+## Churn Prediction for telecom company
+Randomforestclassifier | Pandas | Plotly.express | Logic
+
+### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
+  
+## Churn Prediction for telecom company
+Randomforestclassifier | Pandas | Plotly.express | Logic
+
+### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
+<a href="https://www.kaggle.com/code/anjolaoluwaajayi/churn-prediction-for-a-telecommunication-company" target="blank"><img align="center" src="images/churngif.gif" alt="Churn prediction gif" height="100" width="250" />
+  
+## Churn Prediction for telecom company
+Randomforestclassifier | Pandas | Plotly.express | Logic
+
+### This model predicts the likelihood of customers of MTN, A telecommunication company to churn</a>
 </p>
+
 <p align="center">
 <a href="https://twitter.com/lifewjola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifewjola" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anjolaoluwa-ajayi-a7998b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjolaoluwa-ajayi-a7998b229" height="30" width="40" /></a>
