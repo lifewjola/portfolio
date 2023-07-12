@@ -153,17 +153,6 @@ This section showcases my natural language processing projects.
   </div>
 </div>
 
-
-## Contact
-
-If you have any questions or want to get in touch with me, please feel free to reach out via email at anjolaajayi3@gmail.com
-<h3 align="left">Connect with me, let's be social:</h3>
-<p align="left">
-<a href="https://twitter.com/lifewjola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifewjola" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anjolaoluwa-ajayi-a7998b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjolaoluwa-ajayi-a7998b229" height="30" width="40" /></a>
-<a href="https://instagram.com/lifewjola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lifewjola" height="30" width="40" /></a>
-<a href="https://medium.com/@dataprincess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lifewjola" height="30" width="40" /></a>
-
 <style>
 .menu-container {
   display: flex;
@@ -279,3 +268,15 @@ If you have any questions or want to get in touch with me, please feel free to r
   text-decoration: none;
 } 
 </style>
+
+
+
+## Contact
+
+If you have any questions or want to get in touch with me, please feel free to reach out via email at anjolaajayi3@gmail.com
+<h3 align="left">Connect with me, let's be social:</h3>
+<p align="left">
+<a href="https://twitter.com/lifewjola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifewjola" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anjolaoluwa-ajayi-a7998b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjolaoluwa-ajayi-a7998b229" height="30" width="40" /></a>
+<a href="https://instagram.com/lifewjola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lifewjola" height="30" width="40" /></a>
+<a href="https://medium.com/@dataprincess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lifewjola" height="30" width="40" /></a>
